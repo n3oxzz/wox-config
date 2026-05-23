@@ -1,0 +1,73 @@
+{
+  "ThemeId": "aa8086c7-6759-4ef4-b0b8-0034a1ac9952",
+  "ThemeName": "Teal Noir",
+  "ThemeAuthor": "n3oxzz",
+  "ThemeUrl": "url",
+  "Version": "1.0.0",
+  "Description": "Wox theme by n3oxzz",
+
+  "IsSystem": false,
+  "IsInstalled": true,
+  "IsAutoAppearance": false,
+
+  "DarkThemeId": "",
+  "LightThemeId": "",
+
+  "AppBackgroundColor": "rgba(8, 8, 8, 0.81)",
+  "AppPaddingLeft": 10,
+  "AppPaddingTop": 10,
+  "AppPaddingRight": 10,
+  "AppPaddingBottom": 10,
+
+  "ResultContainerPaddingLeft": 0,
+  "ResultContainerPaddingTop": 10,
+  "ResultContainerPaddingRight": 0,
+  "ResultContainerPaddingBottom": 0,
+
+  "ResultItemBorderRadius": 25,
+  "ResultItemPaddingLeft": 7,
+  "ResultItemPaddingTop": 2,
+  "ResultItemPaddingRight": 7,
+  "ResultItemPaddingBottom": 2,
+  "ResultItemTitleColor": "rgb(218, 218, 218)",
+  "ResultItemSubTitleColor": "rgb(94, 94, 94)",
+  "ResultItemTailTextColor": "rgb(94, 94, 94)",
+  "ResultItemBorderLeftWidth": 0,
+  "ResultItemActiveBackgroundColor": "rgba(31, 111, 104, 0.8)",
+  "ResultItemActiveTitleColor": "rgb(234, 255, 251)",
+  "ResultItemActiveSubTitleColor": "rgb(184, 216, 212)",
+  "ResultItemActiveBorderLeftWidth": 0,
+  "ResultItemActiveTailTextColor": "rgb(184, 216, 212)",
+
+  "QueryBoxFontColor": "rgb(255,255,255)",
+  "QueryBoxBackgroundColor": "rgba(20, 27, 30, 0.8)",
+  "QueryBoxBorderRadius": 12,
+  "QueryBoxCursorColor": "rgb(140, 207, 126)",
+  "QueryBoxTextSelectionBackgroundColor": "rgba(31, 111, 104, 0.65)",
+  "QueryBoxTextSelectionColor": "rgb(234, 255, 251)",
+
+  "ActionContainerBackgroundColor": "rgba(20, 27, 30, 0.92)",
+  "ActionContainerHeaderFontColor": "rgb(218, 218, 218)",
+  "ActionContainerPaddingLeft": 14,
+  "ActionContainerPaddingTop": 10,
+  "ActionContainerPaddingRight": 14,
+  "ActionContainerPaddingBottom": 10,
+  "ActionItemActiveBackgroundColor": "rgba(31, 111, 104, 0.85)",
+  "ActionItemActiveFontColor": "rgb(234, 255, 251)",
+  "ActionItemFontColor": "rgb(218, 218, 218)",
+
+  "ActionQueryBoxFontColor": "rgb(234, 255, 251)",
+  "ActionQueryBoxBackgroundColor": "rgba(16, 23, 26, 0.95)",
+  "ActionQueryBoxBorderRadius": 15,
+
+  "PreviewFontColor": "rgb(218, 218, 218)",
+  "PreviewSplitLineColor": "rgba(80, 87, 90, 0.65)",
+  "PreviewPropertyTitleColor": "rgb(140, 207, 126)",
+  "PreviewPropertyContentColor": "rgb(184, 216, 212)",
+  "PreviewTextSelectionColor": "rgb(140, 207, 126)",
+
+  "ToolbarFontColor": "rgb(218,218,218)",
+  "ToolbarBackgroundColor": "rgba(8, 8, 8, 0.72)",
+  "ToolbarPaddingLeft": 10,
+  "ToolbarPaddingRight": 10
+}
